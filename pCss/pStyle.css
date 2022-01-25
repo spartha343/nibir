@@ -138,6 +138,8 @@ body {
     letter-spacing: .5px;
     font-size: 15px;
     color: #0f2b2c;
+    font-weight: 400;
+    color: #212a2f;
 }
 .pPad h1 {
     line-height: 33px;
